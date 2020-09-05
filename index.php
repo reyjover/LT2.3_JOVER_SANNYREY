@@ -82,5 +82,5 @@
            
             <br>
         </body>
-        <footer> Mt. Olympus | Th4nny | <a href="https://github.com/reyjover/LT2.3_JOVER_SANNYREY/"> Github </a> </footer>
+        <footer> Mt. Olympus | Th4nny | <a href="https://github.com/reyjover/LT2.3_JOVER_SANNYREY/" target="blank"> Github </a> </footer>
 </html>
